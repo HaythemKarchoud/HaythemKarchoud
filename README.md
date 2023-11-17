@@ -2,8 +2,8 @@
   
 <h2>👨‍💻Data Science Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>American Sign Language with Deep Learning.</b>
+  - (https://github.com/HaythemKarchoud/ASL-Recognition-with-Deep-Learning) <b><i>
 
 <h2>Certifications</h2>
 
