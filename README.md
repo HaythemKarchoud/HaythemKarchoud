@@ -5,6 +5,8 @@
 - <b>American Sign Language with Deep Learning.</b>
   - (https://github.com/HaythemKarchoud/ASL-Recognition-with-Deep-Learning) <b><i>
 
+- <b>Predicting credit card Approvals. </b>
+
 <h2>📃 Certifications</h2>
 Bachelor Degree in Business Administration. 
 Masters Degree in Data Analytics for Business. 
