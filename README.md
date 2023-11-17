@@ -6,6 +6,7 @@
   - (https://github.com/HaythemKarchoud/ASL-Recognition-with-Deep-Learning) <b><i>
 
 - <b>Predicting credit card Approvals. </b>
+  - (https://github.com/HaythemKarchoud/ASL-Recognition-with-Deep-Learning) <b><i> <b><i>
 
 <h2>📃 Certifications</h2>
 Bachelor Degree in Business Administration. 
